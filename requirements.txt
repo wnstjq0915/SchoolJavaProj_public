@@ -1,0 +1,9 @@
+fastapi==0.115.3
+mangum==0.19.0
+uvicorn==0.32.0
+mysql-connector-python==9.1.0
+passlib==1.7.4
+python-jose==3.3.0
+python-multipart==0.0.17
+requests==2.29.0
+BeautifulSoup4==4.12.3
